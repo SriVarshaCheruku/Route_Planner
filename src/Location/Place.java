@@ -82,9 +82,9 @@ public class Place extends JFrame {
                 String name = resultSet.getString("name");
                 double latitude = resultSet.getDouble("latitude");
                 double longitude = resultSet.getDouble("longitude");
-
-              //System.out.println("Retrieved place: " + name + ", Latitude: " + latitude + ", Longitude: " + longitude);
-
+                
+                //System.out.println("Retrieved place: " + name + ", Latitude: " + latitude + ", Longitude: " + longitude);
+                
                 String description = resultSet.getString("description");
                 JPanel singlePlacePanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
                 JCheckBox checkBox = new JCheckBox();
@@ -175,7 +175,7 @@ public class Place extends JFrame {
             ex.printStackTrace();
             JOptionPane.showMessageDialog(this, "Error retrieving selected places from the database");
         }
-      //System.out.println("Retrieved Places: " + selectedPlaces);
+      System.out.println("Retrieved Places: " + selectedPlaces);
         return selectedPlaces;
     }
 
@@ -187,7 +187,6 @@ public class Place extends JFrame {
     public void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
-              //  new Place("Madurai", null).setVisible(true);
             	RouteMapGenerator.main(userId, username);
             }
         });
