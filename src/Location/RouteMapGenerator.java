@@ -29,11 +29,7 @@ public class RouteMapGenerator {
 
     public static void main(int userId, String username) {
         List<Place> places = new ArrayList<>();
-        places.add(new Place("meenkshi",9.919500,78.11930));
-        places.add(new Place("rameshwrm",9.288100 ,79.317400));
-        places.add(new Place("brihadeeswr",10.782700 ,79.131500));
-        places.add(new Place("marina",13.050000,80.282400));
-        places.add(new Place("shore",12.616500,80.199300));
+
         printDistances(places);
         List<Place> shortestRoute = null;
         double shortestDistance = Double.MAX_VALUE;
@@ -67,7 +63,9 @@ public class RouteMapGenerator {
             unvisited.remove(nearestNeighbor);
             current = nearestNeighbor;
         }
+        
       //System.out.println("Generated Route: " + route);
+        
         return route;
     }
     
