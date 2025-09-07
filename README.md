@@ -105,8 +105,8 @@ The application uses a **MySQL relational schema** to store users, places, route
 <img width="804" height="603" alt="Book Guide" src="https://github.com/user-attachments/assets/c88ddd9f-715a-4eb7-a5ac-b6a4cab939ed" />
 
 ### 💳 Fake Payment Processor
-<img width="803" height="603" alt="Payment Step 1" src="https://github.com/user-attachments/assets/fba55ab5-68c1-4feb-a90e-9020d3297084" />
 <img width="801" height="602" alt="Payment Step 2" src="https://github.com/user-attachments/assets/6ba2ede6-214f-46ea-8c91-440d01599e49" />
+<img width="803" height="603" alt="Payment Step 1" src="https://github.com/user-attachments/assets/fba55ab5-68c1-4feb-a90e-9020d3297084" />
 <img width="803" height="604" alt="Payment Step 3" src="https://github.com/user-attachments/assets/338b8f5b-6661-4890-a48a-89d2ec03eb1f" />
 
 ### 🔑 Admin Login
