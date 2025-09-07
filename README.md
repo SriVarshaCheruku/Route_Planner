@@ -113,10 +113,10 @@ The application uses a **MySQL relational schema** to store users, places, route
 <img width="802" height="600" alt="Admin Login" src="https://github.com/user-attachments/assets/99fa02e9-d400-4e42-9c43-80aaf99d8e71" />
 
 ### 📊 Admin Dashboard
-<img width="799" height="601" alt="User Logs" src="https://github.com/user-attachments/assets/e76c3924-946d-4686-a655-2402bf4ea21c" />
 <img width="802" height="602" alt="Locations & Places" src="https://github.com/user-attachments/assets/7ad8d400-d889-437b-aec9-d74feed64942" />
-<img width="802" height="599" alt="Guides" src="https://github.com/user-attachments/assets/ebc32abf-8b57-4cda-9534-756917b43b06" />
+<img width="799" height="601" alt="User Logs" src="https://github.com/user-attachments/assets/e76c3924-946d-4686-a655-2402bf4ea21c" />
 <img width="803" height="600" alt="Bookings" src="https://github.com/user-attachments/assets/211dfd39-3a94-4211-9a06-5728adb34e7d" />
+<img width="802" height="599" alt="Guides" src="https://github.com/user-attachments/assets/ebc32abf-8b57-4cda-9534-756917b43b06" />
 
 ## ⚙️ Installation & Setup
 
