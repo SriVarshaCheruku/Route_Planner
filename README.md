@@ -80,44 +80,43 @@ The application uses a **MySQL relational schema** to store users, places, route
 
 ## 📸 Screenshots
 
-HomeScreen
-<img width="800" height="598" alt="Screenshot 2025-07-08 at 12 15 33 PM" src="https://github.com/user-attachments/assets/818ebbfa-cdab-47de-b107-4c7d9167fc3d" />
+### 🏠 Home Screen
+<img width="800" height="598" alt="Home Screen" src="https://github.com/user-attachments/assets/818ebbfa-cdab-47de-b107-4c7d9167fc3d" />
 
-SignUp
-<img width="794" height="582" alt="Screenshot 2025-07-08 at 12 16 11 PM" src="https://github.com/user-attachments/assets/8e28bdc0-5241-4b50-889a-d93e1133066b" />
+### 📝 Sign Up
+<img width="794" height="582" alt="Sign Up" src="https://github.com/user-attachments/assets/8e28bdc0-5241-4b50-889a-d93e1133066b" />
 
-Login
-<img width="796" height="599" alt="Screenshot 2025-07-08 at 12 50 11 PM" src="https://github.com/user-attachments/assets/8e65bade-6444-4357-8b0f-316a5a04bea1" />
+### 🔐 Login
+<img width="796" height="599" alt="Login" src="https://github.com/user-attachments/assets/8e65bade-6444-4357-8b0f-316a5a04bea1" />
 
-Location
-<img width="795" height="598" alt="Screenshot 2025-07-08 at 12 52 00 PM" src="https://github.com/user-attachments/assets/6b7ffc6b-af3d-4e9b-9420-b8bd90b66096" />
+### 📍 Location Selection
+<img width="795" height="598" alt="Location Selection" src="https://github.com/user-attachments/assets/6b7ffc6b-af3d-4e9b-9420-b8bd90b66096" />
 
-Places
-<img width="799" height="598" alt="Screenshot 2025-07-08 at 12 52 27 PM" src="https://github.com/user-attachments/assets/3af04af5-c102-4c32-889c-f31ec567a5b9" />
+### 🏞️ Places
+<img width="799" height="598" alt="Places" src="https://github.com/user-attachments/assets/3af04af5-c102-4c32-889c-f31ec567a5b9" />
 
-RouteMap
-<img width="804" height="602" alt="Screenshot 2025-07-08 at 12 53 06 PM" src="https://github.com/user-attachments/assets/b30496e9-99bd-4aac-9e13-c0c037387390" />
+### 🗺️ Route Map
+<img width="804" height="602" alt="Route Map" src="https://github.com/user-attachments/assets/b30496e9-99bd-4aac-9e13-c0c037387390" />
 
-GuideSelection
-<img width="806" height="603" alt="Screenshot 2025-07-08 at 12 53 28 PM" src="https://github.com/user-attachments/assets/97b91e10-aade-4d8b-9ca3-fc5b229ee8fc" />
+### 👨‍💼 Guide Selection
+<img width="806" height="603" alt="Guide Selection" src="https://github.com/user-attachments/assets/97b91e10-aade-4d8b-9ca3-fc5b229ee8fc" />
 
-Book Guide
-<img width="804" height="603" alt="Screenshot 2025-07-08 at 12 53 42 PM" src="https://github.com/user-attachments/assets/c88ddd9f-715a-4eb7-a5ac-b6a4cab939ed" />
+### 📖 Book Guide
+<img width="804" height="603" alt="Book Guide" src="https://github.com/user-attachments/assets/c88ddd9f-715a-4eb7-a5ac-b6a4cab939ed" />
 
-FakePaymentProcessor
-<img width="803" height="603" alt="Screenshot 2025-07-08 at 12 53 59 PM" src="https://github.com/user-attachments/assets/fba55ab5-68c1-4feb-a90e-9020d3297084" />
-<img width="801" height="602" alt="Screenshot 2025-07-08 at 12 53 52 PM" src="https://github.com/user-attachments/assets/6ba2ede6-214f-46ea-8c91-440d01599e49" />
-<img width="803" height="604" alt="Screenshot 2025-07-08 at 12 54 06 PM" src="https://github.com/user-attachments/assets/338b8f5b-6661-4890-a48a-89d2ec03eb1f" />
+### 💳 Fake Payment Processor
+<img width="803" height="603" alt="Payment Step 1" src="https://github.com/user-attachments/assets/fba55ab5-68c1-4feb-a90e-9020d3297084" />
+<img width="801" height="602" alt="Payment Step 2" src="https://github.com/user-attachments/assets/6ba2ede6-214f-46ea-8c91-440d01599e49" />
+<img width="803" height="604" alt="Payment Step 3" src="https://github.com/user-attachments/assets/338b8f5b-6661-4890-a48a-89d2ec03eb1f" />
 
+### 🔑 Admin Login
+<img width="802" height="600" alt="Admin Login" src="https://github.com/user-attachments/assets/99fa02e9-d400-4e42-9c43-80aaf99d8e71" />
 
-Admin Login
-<img width="802" height="600" alt="Screenshot 2025-07-08 at 12 55 52 PM" src="https://github.com/user-attachments/assets/99fa02e9-d400-4e42-9c43-80aaf99d8e71" />
-
-Admin Dashboard(UserLog, Locations and Places, Guides, Bookings)
-<img width="799" height="601" alt="Screenshot 2025-07-08 at 12 56 23 PM" src="https://github.com/user-attachments/assets/e76c3924-946d-4686-a655-2402bf4ea21c" />
-<img width="802" height="602" alt="Screenshot 2025-07-08 at 12 56 07 PM" src="https://github.com/user-attachments/assets/7ad8d400-d889-437b-aec9-d74feed64942" />
-<img width="802" height="599" alt="Screenshot 2025-07-08 at 12 56 39 PM" src="https://github.com/user-attachments/assets/ebc32abf-8b57-4cda-9534-756917b43b06" />
-<img width="803" height="600" alt="Screenshot 2025-07-08 at 12 56 31 PM" src="https://github.com/user-attachments/assets/211dfd39-3a94-4211-9a06-5728adb34e7d" />
+### 📊 Admin Dashboard
+<img width="799" height="601" alt="User Logs" src="https://github.com/user-attachments/assets/e76c3924-946d-4686-a655-2402bf4ea21c" />
+<img width="802" height="602" alt="Locations & Places" src="https://github.com/user-attachments/assets/7ad8d400-d889-437b-aec9-d74feed64942" />
+<img width="802" height="599" alt="Guides" src="https://github.com/user-attachments/assets/ebc32abf-8b57-4cda-9534-756917b43b06" />
+<img width="803" height="600" alt="Bookings" src="https://github.com/user-attachments/assets/211dfd39-3a94-4211-9a06-5728adb34e7d" />
 
 ## ⚙️ Installation & Setup
 
